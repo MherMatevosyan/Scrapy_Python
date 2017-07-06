@@ -1,0 +1,5 @@
+This folder contains the spiders {
+	top movie: extracts the top 250 imdb movies
+	directors: extracts the name and directors of top movies ( default top 10)
+}
+average rating is in imdb_top_movies_rating_avg.ipynb
